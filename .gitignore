@@ -1,5 +1,9 @@
 .venv
 venv
+.vscode 
+jaffle-shop/target/ 
+jaffle-shop/dbt_packages/ 
+jaffle-shop/logs/ 
 .env
 env
 
